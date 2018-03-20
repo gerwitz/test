@@ -1,5 +1,5 @@
 layout: note
-date: 2018-03-20T19:36:33+00:00
+date: 2018-03-20T19:38:21+00:00
 slug: test-of-querying-the-endpoint-for
 category: microblog
 ---
